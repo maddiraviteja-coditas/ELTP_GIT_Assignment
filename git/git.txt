@@ -1,0 +1,3 @@
+Hello to the git file
+configured local global
+pushing to the remote sucessfully.
